@@ -54,7 +54,8 @@ get further detail by using ip2location.com website.
 
 ## output:
 
-![img3](https://github.com/user-attachments/assets/dab37759-b616-4a3a-af98-a1f33707aa0f)
+![Screenshot 2025-03-07 133338](https://github.com/user-attachments/assets/db6869b1-fcaa-430c-9abb-4e41c49b1b6f)
+
 
 ## History of the website:
 
