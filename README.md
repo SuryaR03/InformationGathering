@@ -35,8 +35,8 @@ Tested By: SURYA R
 Register no.: 212223110056
 ```
 ## OUTPUT:
+![Screenshot 2025-03-07 133007](https://github.com/user-attachments/assets/964147d2-7eaf-4e21-88b3-2ce57b7a8d09)
 
-![img1](https://github.com/user-attachments/assets/1c8c253e-ce6d-45a2-8157-77c490fb7c54)
 
 ## Finding IP address:
 
