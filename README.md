@@ -46,7 +46,8 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 
 ## output:
 
-![img2](https://github.com/user-attachments/assets/5ceadf17-9b92-4fd4-8b5b-20c61c3d4085)
+![WhatsApp Image 2025-03-14 at 19 19 22_a0deb5ee](https://github.com/user-attachments/assets/e2126f97-83ba-47de-8440-b01582c951ff)
+
 
 ## Finding Hosting Company:
 
