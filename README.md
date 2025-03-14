@@ -61,8 +61,8 @@ get further detail by using ip2location.com website.
 ## History of the website:
 
 ## Output:
+![Screenshot 2025-03-14 192942](https://github.com/user-attachments/assets/4d3bb96d-e831-4f0f-9b7d-bf4b683998db)
 
-![img4](https://github.com/user-attachments/assets/61d09b80-0dea-4ed1-8f8b-6fdaff54df61)
 
 ## Webserver Fingerprinting:
 
@@ -72,7 +72,8 @@ get further detail by using ip2location.com website.
 
 ## OUTPUT:
 
-![img5](https://github.com/user-attachments/assets/fa608c35-102c-4c30-958a-49dc8416dd23)
+![EH NC](https://github.com/user-attachments/assets/cd96b74a-520e-4615-88dc-46b1f63c6f34)
+
 
 ## nmap:
 
@@ -80,7 +81,8 @@ get further detail by using ip2location.com website.
 
 ## OUTPUT:
 
-![img6](https://github.com/user-attachments/assets/6e96994f-a241-451a-b4b9-061b115eb997)
+![EH NMAP](https://github.com/user-attachments/assets/31d2bdec-0367-4d5d-91de-60cd6077a232)
+
 
 ## Whatweb:
 
@@ -92,7 +94,8 @@ get further detail by using ip2location.com website.
 
 ## OUTPUT:
 
-![img7](https://github.com/user-attachments/assets/b60dcfe6-9c94-4953-81cb-8ea056f8bf3b)
+![EH WHATWEB](https://github.com/user-attachments/assets/f128617f-7f80-4793-9fd4-297b18b3efad)
+
 
 ## httprint:
 
@@ -100,7 +103,8 @@ get further detail by using ip2location.com website.
 
 ## OUTPUT:
 
-![img8](https://github.com/user-attachments/assets/3c0ca970-f2de-4d3b-b3a2-c19026b7416c)
+![EH HTTPRI](https://github.com/user-attachments/assets/3562176e-fbe9-4e07-8fbf-e459e53e2c0e)
+
 
 ## Tracing the Location
 
@@ -109,8 +113,8 @@ get further detail by using ip2location.com website.
 ```sudo traceroute -T www.saveetha.ac.in```
 
 ## OUTPUT:
+![TCP](https://github.com/user-attachments/assets/95950f17-5009-4ae5-ab13-3c7b5d7ea723)
 
-![imh9](https://github.com/user-attachments/assets/e4e72beb-1417-4c18-b03b-0d0f46f27281)
 
 ## UDP Traceroute:
 
@@ -118,7 +122,8 @@ get further detail by using ip2location.com website.
 
 ## OUTPUT:
 
-![img10](https://github.com/user-attachments/assets/c50a4276-cd64-40d5-a404-d68a9121f598)
+![ICT TRACE](https://github.com/user-attachments/assets/0d19a07e-df3b-4a4b-ab02-208c61a1f4d2)
+
 
 ## ICMP Traceroute:
 
@@ -126,7 +131,8 @@ get further detail by using ip2location.com website.
 
 ## OUTPUT:
 
-![img11](https://github.com/user-attachments/assets/500208a1-6ee9-45c6-809c-d301a17d2940)
+![ICMP](https://github.com/user-attachments/assets/8f94883a-13c9-47d5-8177-ff91afe422d0)
+
 
 ## RESULT:
 
